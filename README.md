@@ -6,8 +6,8 @@
 Vue2.0+Vuex+ElementUI
 
 <h2>项目截图<h2>
-<img src="https://github.com/tiantian2000/vue-seller/blob/gh-pages/%E7%A4%BA%E4%BE%8B.png"/>
-
+<img src="https://github.com/tiantian2000/vue-his/blob/master/示例.jpg"/>
+<img src="https://github.com/tiantian2000/vue-his/blob/master/示例1.jpg"/>
 <h2> 运行项目</h2>
 
 #克隆整个项目到本地<br>
