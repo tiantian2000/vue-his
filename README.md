@@ -7,7 +7,7 @@ Vue2.0+Vuex+ElementUI
 
 <h2>项目截图<h2>
 <img src="https://github.com/tiantian2000/vue-his/blob/master/示例.jpg"/>
-  <br>
+  <br>  <br>
 <img src="https://github.com/tiantian2000/vue-his/blob/master/示例1.jpg"/>
 <h2> 运行项目</h2>
 
