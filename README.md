@@ -1,13 +1,12 @@
 <h2>项目介绍</h2>
 
-住院管理系统
+医疗住院管理系统
 
 <h2>技术栈</h2>
 Vue2.0+Vuex+ElementUI
 
 <h2>项目截图<h2>
 <img src="https://github.com/tiantian2000/vue-his/blob/master/示例.jpg"/>
-  <br>  <br>
 <img src="https://github.com/tiantian2000/vue-his/blob/master/示例1.jpg"/>
 <h2> 运行项目</h2>
 
