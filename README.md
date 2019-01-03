@@ -3,7 +3,7 @@
 住院管理系统
 
 <h2>技术栈</h2>
-Vue2.0+Vuex+Element
+Vue2.0+Vuex+ElementUI
 
 <h2>项目截图<h2>
 <img src="https://github.com/tiantian2000/vue-seller/blob/gh-pages/%E7%A4%BA%E4%BE%8B.png"/>
